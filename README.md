@@ -18,7 +18,7 @@ BPlustTree를 만들기 위한 파일이다.
 ## 2. file.c
 news2021에 있는 파일을 불러와 특수문자를 제외하고 단어별로 파싱을 진행한 후
 BPTree에 넣는 과정을 수행하기 위한 파일이다.
-## 3. ilehashmap.c
+## 3. filehashmap.c
 news2021에 파일 명을 정수형으로 변환해주는 기능을 한다. 
 news2021에 중복되는 파일 명들이 존재하기 때문에, hash를 이용한다.
 ## 4. main.c
